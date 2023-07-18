@@ -1,0 +1,21 @@
+{
+  "homeTitle": "Explore the globe by searching countries and learn new things",
+  "nav": {
+    "home": "Globe-trotter",
+    "explore": "Explore",
+    "search": "Start exploration"
+  },
+  "selectMode": "Change search mode",
+  "error": {
+    "404": "404",
+    "notFound": "Page not found"
+  },
+  "backHome": "back home",
+  "worldMap": "World map",
+  "flag": "Flag:",
+  "capital": "The capital:",
+  "currencies": "Currencies: ",
+  "phones": "Phone prefixes:",
+  "languages": "Languages:",
+  "expand-list": "Expand countries list"
+}

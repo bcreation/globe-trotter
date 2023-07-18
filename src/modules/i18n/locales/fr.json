@@ -1,0 +1,21 @@
+{
+  "homeTitle": "Explorez le monde en recherchant des pays et apprenez de nouvelles choses",
+  "nav": {
+    "home": "Globe-trotter",
+    "explore": "Explorer",
+    "search": "Commencer l'exploration"
+  },
+  "selectMode": "Changer le mode de recherche",
+  "error": {
+    "404": "404",
+    "notFound": "Page non trouvée"
+  },
+  "backHome": "retour à l'acceuil",
+  "worldMap": "Carte du monde",
+  "flag": "Drapeau:",
+  "capital": "La capitale:",
+  "currencies": "Devises :",
+  "phones": "Préfixes téléphoniques :",
+  "languages": "Langues :",
+  "expand-list": "Développer la liste des pays"
+}
